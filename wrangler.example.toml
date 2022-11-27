@@ -1,0 +1,7 @@
+name = "wind-comment"
+main = "src/index.ts"
+compatibility_date = "2022-11-26"
+# You should fill in your Workers KV namespace ID here.
+kv_namespaces = [
+  { binding = "wind_comment", id = "", preview_id = "" },
+]

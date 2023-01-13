@@ -1,0 +1,7 @@
+{
+  "type": "module",
+  "dependencies": {
+    "@sagi.io/workers-kv": "^0.0.13",
+    "sqlite3": "^5.1.4"
+  }
+}
